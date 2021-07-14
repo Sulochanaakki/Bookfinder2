@@ -1,0 +1,5 @@
+.secret/
+*.db
+*.pyc
+.idea/
+main.py
